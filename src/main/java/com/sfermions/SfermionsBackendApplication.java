@@ -1,4 +1,4 @@
-package com.sfermions.sfermions_backend;
+package com.sfermions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class SfermionsBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SfermionsBackendApplication.class, args);
 	}
-
 }
